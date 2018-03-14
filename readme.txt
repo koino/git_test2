@@ -3,3 +3,5 @@ Git is free software
 
 
 file is reame.txt
+
+git is free software
